@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.9b1431d8.chunk.css",
-    "main.js": "./static/js/main.064caa8f.chunk.js",
-    "main.js.map": "./static/js/main.064caa8f.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.eb8f2c85.js",
-    "runtime-main.js.map": "./static/js/runtime-main.eb8f2c85.js.map",
-    "static/css/2.27a92245.chunk.css": "./static/css/2.27a92245.chunk.css",
-    "static/js/2.576f8e12.chunk.js": "./static/js/2.576f8e12.chunk.js",
-    "static/js/2.576f8e12.chunk.js.map": "./static/js/2.576f8e12.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.81d1f4837729aa955e2340e79ff07839.js": "./precache-manifest.81d1f4837729aa955e2340e79ff07839.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.27a92245.chunk.css.map": "./static/css/2.27a92245.chunk.css.map",
-    "static/css/main.9b1431d8.chunk.css.map": "./static/css/main.9b1431d8.chunk.css.map",
-    "static/js/2.576f8e12.chunk.js.LICENSE.txt": "./static/js/2.576f8e12.chunk.js.LICENSE.txt"
+    "main.css": "/snrs-art/ds-getting-started/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/snrs-art/ds-getting-started/static/js/main.064caa8f.chunk.js",
+    "main.js.map": "/snrs-art/ds-getting-started/static/js/main.064caa8f.chunk.js.map",
+    "runtime-main.js": "/snrs-art/ds-getting-started/static/js/runtime-main.b30a8895.js",
+    "runtime-main.js.map": "/snrs-art/ds-getting-started/static/js/runtime-main.b30a8895.js.map",
+    "static/css/2.27a92245.chunk.css": "/snrs-art/ds-getting-started/static/css/2.27a92245.chunk.css",
+    "static/js/2.e7a273e2.chunk.js": "/snrs-art/ds-getting-started/static/js/2.e7a273e2.chunk.js",
+    "static/js/2.e7a273e2.chunk.js.map": "/snrs-art/ds-getting-started/static/js/2.e7a273e2.chunk.js.map",
+    "index.html": "/snrs-art/ds-getting-started/index.html",
+    "precache-manifest.d4acb3ce1c5c33c8ec15ffc484a24bc4.js": "/snrs-art/ds-getting-started/precache-manifest.d4acb3ce1c5c33c8ec15ffc484a24bc4.js",
+    "service-worker.js": "/snrs-art/ds-getting-started/service-worker.js",
+    "static/css/2.27a92245.chunk.css.map": "/snrs-art/ds-getting-started/static/css/2.27a92245.chunk.css.map",
+    "static/css/main.9b1431d8.chunk.css.map": "/snrs-art/ds-getting-started/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.e7a273e2.chunk.js.LICENSE.txt": "/snrs-art/ds-getting-started/static/js/2.e7a273e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb8f2c85.js",
+    "static/js/runtime-main.b30a8895.js",
     "static/css/2.27a92245.chunk.css",
-    "static/js/2.576f8e12.chunk.js",
+    "static/js/2.e7a273e2.chunk.js",
     "static/css/main.9b1431d8.chunk.css",
     "static/js/main.064caa8f.chunk.js"
   ]
