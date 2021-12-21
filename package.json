@@ -10,9 +10,15 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
+    "@synerise/ds-app-menu": "0.5.2",
+    "@synerise/ds-core": "0.31.2",
+    "@synerise/ds-icon": "0.46.2",
+    "antd": "4.17.4",
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "styled-components": "5.0.1",
+    "tslib": "2.3.1"
   },
   "devDependencies": {
     "@types/react": "^16.0.0",
