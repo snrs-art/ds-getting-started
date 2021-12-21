@@ -1,6 +1,7 @@
 {
   "name": "synerise-design-react-typescript",
   "version": "1.0.0",
+  "homepage": "snrs-art/ds-getting-started/",
   "description": "Synerise Design System React and TypeScript example project.",
   "keywords": [
     "typescript",
