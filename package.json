@@ -1,0 +1,34 @@
+{
+  "name": "synerise-design-react-typescript",
+  "version": "1.0.0",
+  "description": "Synerise Design System React and TypeScript example project.",
+  "keywords": [
+    "typescript",
+    "react",
+    "synerise/design-system",
+    "starter"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.0",
+    "@types/react-dom": "^16.0.0",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
